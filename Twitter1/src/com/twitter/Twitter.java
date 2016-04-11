@@ -6,6 +6,7 @@ import com.twitter.poruke.TwitterPoruka;
  * @author Olivera
  *
  */
+
 public class Twitter {
 	/**
 	 * lista poruka tipa TwitterPoruka.

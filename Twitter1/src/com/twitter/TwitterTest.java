@@ -38,6 +38,7 @@ public class TwitterTest {
 	/**
 	 * Test method for {@link com.twitter.Twitter#vratiSvePoruke()}.
 	 */
+	
 	@Test
 	public void testVratiSvePoruke() {
 		String korisnik1 = "Mirko Mirkovic";

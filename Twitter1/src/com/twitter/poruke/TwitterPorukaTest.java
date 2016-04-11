@@ -92,6 +92,7 @@ public class TwitterPorukaTest {
 		
 		assertEquals(poruka, t.getPoruka());
 	}
+	
 	@Test
 	public void testSetPorukaNull() {
 		String poruka = null;

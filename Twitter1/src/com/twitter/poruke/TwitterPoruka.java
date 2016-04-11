@@ -39,6 +39,7 @@ public class TwitterPoruka {
 		public String getPoruka() {
 			return poruka; 
 		}
+		
 		/**
 		 * Metoda postavlja vrednost atributa poruka na unetu vrednost preko parametra koji prima (on ne moze biti null). Takodje se proverava 
 		 * da li je duzina atributa poruka veca od 140. U slucaju da neki od ovih uslova nije ispunjen, metoda baza neproveravani izuzetak klase
