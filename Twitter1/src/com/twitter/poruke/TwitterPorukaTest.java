@@ -71,7 +71,6 @@ public class TwitterPorukaTest {
 		}catch(RuntimeException e){}
 		
 		assertEquals(null, t.getKorisnik());
-		
 	}
 
 	/**
